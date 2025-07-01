@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="open_nlu_driver_language">
+    <open_nlu_driver_language action="INSERT_OR_UPDATE">
+        <code>sv</code>
+        <dialog_acts_supported>false</dialog_acts_supported>
+        <driver display_value="">64c023c17300330021a044764df6a70e</driver>
+        <driver_codes>sv</driver_codes>
+        <language>Swedish</language>
+        <sys_class_name>open_nlu_driver_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-30 07:00:16</sys_created_on>
+        <sys_id>68d03c0483a622109b11f7a6feaad351</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Swedish</sys_name>
+        <sys_package display_value="Wish List" source="x_1682877_wish_lis">897ad008832622109b11f7a6feaad324</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">897ad008832622109b11f7a6feaad324</sys_scope>
+        <sys_update_name>open_nlu_driver_language_68d03c0483a622109b11f7a6feaad351</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-30 07:00:16</sys_updated_on>
+    </open_nlu_driver_language>
+</record_update>
